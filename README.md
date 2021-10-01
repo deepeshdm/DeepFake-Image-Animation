@@ -8,7 +8,7 @@ The following is a DeepFake Image Motion Animation model implemented as per this
 </div>
 
 ## Output :
-Below are the results I got from using a pre-trained model trained on "VoxCeleb" dataset,where the source images contain images of myself and some of my high school friends.
+Below are the results I got from using a pre-trained model trained on "VoxCeleb" dataset,where the source images contain images of myself and some of my high school friends.The model creates the output videos by taking just a single image.
 
 #### 1] Me and My friends singing BakaMitai (ばかみたい)
 <div align="center">
